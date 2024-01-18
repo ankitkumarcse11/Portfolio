@@ -1,0 +1,46 @@
+{
+  "skills":[
+  {
+    "id":"1",
+    "src":"https://t4.ftcdn.net/jpg/03/58/42/75/240_F_358427509_EFpw8u9515zgHy6cPHsOJaCz3ueNts5y.jpg",
+    "title":"Front-End",
+    "description":"My preferred technologies for front-end web development and component design."
+  },
+  {
+    "id":"2",
+    "src":"./Backendpic.jpg",
+    "title":"Back-End",
+    "description":"My preferred technologies for back-end web programming and database architecture."
+  },
+  {
+    "id":"3",
+    "src":"./android.jpg",
+    "title":"Android",
+    "description":"My preferred technologies for Android develpment.Flutter is one of fastest growing technologies."
+  }
+],
+"portfolio": [
+  {
+    "id": "1",
+    "src": "./newapp.png",
+    "title": "News-app",
+    "description": "News Explorer is a user-friendly and dynamic news application designed to keep you informed and up-to-date with the latest news from around the world. Developed with a combination of HTML, CSS, and API integration, this application offers a seamless and visually appealing experience for users seeking reliable news sources.",
+    "link": "https://github.com/ankitkumarcse11/newsapp"
+  },
+  {
+    "id": "2",
+    "src": "./qrgenerator.png",
+    "title": "QR-CODEGENERATOR",
+    "description": "Introducing the QR Code Generator, a versatile and user-friendly web application crafted with HTML, CSS, and JavaScript, along with seamless API integration. This project empowers users to generate QR codes effortlessly, providing a convenient and efficient solution for various applications.",
+    "link": "https://github.com/ankitkumarcse11/QRCODEGENERATOR"
+  },
+  {
+    "id": "3",
+    "src": "./calculator.png",
+    "title": "Scientific-calculator",
+    "description": "Welcome to the Scientific Calculator App, a powerful and feature-rich calculator designed and developed using Android Studio. This application brings the capabilities of a scientific calculator to the palm of your hands, providing an intuitive and efficient tool for a wide range of mathematical computations.",
+    "link": ""
+  }
+
+]
+}
